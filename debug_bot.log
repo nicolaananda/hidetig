@@ -1,0 +1,21 @@
+[2026-01-11T02:30:42.533Z] [DEBUG] Text received: 'hidetag tatag' | Lower: 'hidetag tatag'
+[2026-01-11T02:30:43.432Z] [DEBUG] Text received: 'tatag' | Lower: 'tatag'
+[2026-01-11T02:30:43.788Z] [DEBUG] No text received. m.text is empty.
+[2026-01-11T02:30:44.002Z] [DEBUG] Text received: 'tatag' | Lower: 'tatag'
+[2026-01-11T02:31:07.207Z] [DEBUG] Text received: 'tatag' | Lower: 'tatag'
+[2026-01-11T02:31:07.387Z] [DEBUG] No text received. m.text is empty.
+[2026-01-11T02:31:12.144Z] [DEBUG] Text received: 'hidetag tatag' | Lower: 'hidetag tatag'
+[2026-01-11T02:31:13.087Z] [DEBUG] Text received: 'Fitur Khusus Para Dewa' | Lower: 'fitur khusus para dewa'
+[2026-01-11T02:31:37.590Z] [DEBUG] Text received: 'Berhasil menambahkan stok sebanyak 3' | Lower: 'berhasil menambahkan stok sebanyak 3'
+[2026-01-11T02:31:42.798Z] [DEBUG] Text received: 'addstok net1m,sabina505@ghzm.us|bacasnk|in|8888
+sabina505@ghzm.us|bacasnk|the|8888
+sabina505@ghzm.us|bacasnk|city|8888' | Lower: 'addstok net1m,sabina505@ghzm.us|bacasnk|in|8888
+sabina505@ghzm.us|bacasnk|the|8888
+sabina505@ghzm.us|bacasnk|city|8888'
+[2026-01-11T02:31:43.166Z] [DEBUG] Text received: 'buy net1m 3' | Lower: 'buy net1m 3'
+[2026-01-11T02:31:44.159Z] [DEBUG] Text received: 'Sedang memproses pembelian dengan saldo...' | Lower: 'sedang memproses pembelian dengan saldo...'
+[2026-01-11T02:31:47.353Z] [DEBUG] Text received: '🎉 Pembelian dengan saldo berhasil! Detail akun telah dikirim ke chat pribadi Anda. Terima kasih!' | Lower: '🎉 pembelian dengan saldo berhasil! detail akun telah dikirim ke chat pribadi anda. terima kasih!'
+[2026-01-11T02:34:39.035Z] [DEBUG] Text received: 'tatag' | Lower: 'tatag'
+[2026-01-11T02:34:39.379Z] [DEBUG] No text received. m.text is empty.
+[2026-01-11T02:34:46.586Z] [DEBUG] Text received: 'hidetag tatag' | Lower: 'hidetag tatag'
+[2026-01-11T02:34:49.366Z] [DEBUG] Text received: 'tatag' | Lower: 'tatag'
