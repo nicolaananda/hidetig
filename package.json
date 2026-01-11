@@ -10,12 +10,12 @@
   "author": "Yaelahzal",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0",
     "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^1.7.2",
     "chalk": "^4.1.2",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "figlet": "^1.7.0",
     "file-type": "^16.5.3",
     "pino": "^7.0.5"
