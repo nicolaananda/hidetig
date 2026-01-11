@@ -1,5 +1,5 @@
 const fs = require('fs')
-const { jidDecode } = require('@dappaoffc/baileys')
+const { jidDecode } = require('@whiskeysockets/baileys')
 
 function logDebug(msg) {
     const timestamp = new Date().toISOString()

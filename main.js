@@ -1,5 +1,5 @@
 require('./settings')
-const { default: makeWaSocket, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, jidDecode } = require("@dappaoffc/baileys")
+const { default: makeWaSocket, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, jidDecode } = require("@whiskeysockets/baileys")
 
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')

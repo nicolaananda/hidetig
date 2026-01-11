@@ -1,5 +1,5 @@
 {
-  "name": "SCRIPT_BOT_HIDETAG_ONLY",
+  "name": "script-bot-hidetag-only",
   "version": "1.0.0",
   "description": "Simple WhatsApp Bot - Hidetag Only",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "Yaelahzal",
   "license": "MIT",
   "dependencies": {
-    "@dappaoffc/baileys": "^2.0.6",
+    "@whiskeysockets/baileys": "^6.6.0",
     "@hapi/boom": "^10.0.1",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^1.7.2",
